@@ -16,9 +16,11 @@
     --line: 1px solid var(--color-Grey-light-2);
 }
 
-$bp-largest: 75em;  //1200px 
-$bp-larg: 68.75em;  //1100px 
-$bp-medium: 56.15em;  //900px 
+$bp-largest: 75em;        //1200px 
+$bp-larg: 68.75em;        //1100px 
+$bp-medium: 56.15em;      //900px 
+$bp-small: 37.5em;        //600px 
+$bp-smallest: 31.25em;    //500px 
 
 * {
     padding: 0;
